@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from flask import Flask, request, send_file
 from rembg import remove
 from PIL import Image
